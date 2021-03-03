@@ -2,11 +2,18 @@
 
 # CLI commands
 npm install -g truffle
+
+
 truffle version
+
+
 truffle init 
+
+
 truffle develop
 
 http://127.0.0.1:9545/
+
 Accts; PKs; Mnemonic
 
 npm install -g ganache-cli
